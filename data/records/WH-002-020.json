@@ -1,0 +1,22 @@
+{
+  "id": "WH-002-020",
+  "title": "Summary - clean - declass marked PART 3",
+  "type": "White House Release",
+  "date": "",
+  "agency": "United States Government",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "Summary - clean - declass marked PART 3. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+  "collection": "WH Release 002",
+  "entities": [
+    "China’s Acquisition and Exploitation of American Voter Data",
+    "United States Government",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-002/002-020.pdf",
+  "pdf": "files/collection-002/002-020.pdf",
+  "original_filename": "Summary - clean - declass marked PART 3.pdf"
+}

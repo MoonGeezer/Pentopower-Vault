@@ -1,0 +1,12 @@
+{
+  "version": "5.0-final",
+  "generated": "2026-07-17",
+  "document_count": 58,
+  "collections": {
+    "001": 8,
+    "002": 23,
+    "003": 25,
+    "004": 2
+  },
+  "notes": "Version 5 cleanup build. Collections 001-004 are locally indexed. Judicial Vault, Executive Orders, Proclamations, and Laws frameworks are preserved."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "WH-001-005",
+  "title": "EMAIL ICA.CommentsReMinorityView 30DEC2020",
+  "type": "White House Release",
+  "date": "2020-12-30",
+  "agency": "United States Intelligence Community",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "EMAIL ICA.CommentsReMinorityView 30DEC2020. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+  "collection": "WH Release 001",
+  "entities": [
+    "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+    "United States Intelligence Community",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-001/001-005.pdf",
+  "pdf": "files/collection-001/001-005.pdf",
+  "original_filename": "EMAIL_ICA.CommentsReMinorityView_30DEC2020_DECLASS REDACTED.pdf"
+}

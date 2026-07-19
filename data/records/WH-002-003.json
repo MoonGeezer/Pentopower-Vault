@@ -1,0 +1,22 @@
+{
+  "id": "WH-002-003",
+  "title": "CIA Wire Memo Summer 2020",
+  "type": "White House Release",
+  "date": "2020-01-01",
+  "agency": "Central Intelligence Agency",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "CIA Wire Memo Summer 2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+  "collection": "WH Release 002",
+  "entities": [
+    "China’s Acquisition and Exploitation of American Voter Data",
+    "Central Intelligence Agency",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-002/002-003.pdf",
+  "pdf": "files/collection-002/002-003.pdf",
+  "original_filename": "CIA Wire Memo Summer 2020 DECLASS_REDACTED.pdf"
+}

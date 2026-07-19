@@ -1,0 +1,1278 @@
+[
+  {
+    "id": "WH-001-001",
+    "title": "CIA Note - Venezuela Machines Intel Memo 29JUNE2026",
+    "type": "White House Release",
+    "date": "2026-06-29",
+    "agency": "Central Intelligence Agency",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "CIA Note - Venezuela Machines Intel Memo 29JUNE2026. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+    "collection": "WH Release 001",
+    "entities": [
+      "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+      "Central Intelligence Agency",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-001/001-001.pdf",
+    "pdf": "files/collection-001/001-001.pdf",
+    "original_filename": "CIA Note - Venezuela Machines Intel Memo_29JUNE2026_DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-001-002",
+    "title": "CIA Wire Memo Summer 2020",
+    "type": "White House Release",
+    "date": "2020-01-01",
+    "agency": "Central Intelligence Agency",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "CIA Wire Memo Summer 2020. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+    "collection": "WH Release 001",
+    "entities": [
+      "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+      "Central Intelligence Agency",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-001/001-002.pdf",
+    "pdf": "files/collection-001/001-002.pdf",
+    "original_filename": "CIA Wire Memo Summer 2020 DECLASS REDACTED.pdf"
+  },
+  {
+    "id": "WH-001-003",
+    "title": "CISA Election Report - FINAL",
+    "type": "White House Release",
+    "date": "",
+    "agency": "Cybersecurity and Infrastructure Security Agency",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "CISA Election Report - FINAL. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+    "collection": "WH Release 001",
+    "entities": [
+      "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+      "Cybersecurity and Infrastructure Security Agency",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-001/001-003.pdf",
+    "pdf": "files/collection-001/001-003.pdf",
+    "original_filename": "CISA Election Report - FINAL.pdf"
+  },
+  {
+    "id": "WH-001-004",
+    "title": "EMAIL Everyone's favorite topic 23DEC2021",
+    "type": "White House Release",
+    "date": "2021-12-23",
+    "agency": "United States Intelligence Community",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "EMAIL Everyone's favorite topic 23DEC2021. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+    "collection": "WH Release 001",
+    "entities": [
+      "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+      "United States Intelligence Community",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-001/001-004.pdf",
+    "pdf": "files/collection-001/001-004.pdf",
+    "original_filename": "EMAIL_Everyone's favorite topic_23DEC2021_DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-001-005",
+    "title": "EMAIL ICA.CommentsReMinorityView 30DEC2020",
+    "type": "White House Release",
+    "date": "2020-12-30",
+    "agency": "United States Intelligence Community",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "EMAIL ICA.CommentsReMinorityView 30DEC2020. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+    "collection": "WH Release 001",
+    "entities": [
+      "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+      "United States Intelligence Community",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-001/001-005.pdf",
+    "pdf": "files/collection-001/001-005.pdf",
+    "original_filename": "EMAIL_ICA.CommentsReMinorityView_30DEC2020_DECLASS REDACTED.pdf"
+  },
+  {
+    "id": "WH-001-006",
+    "title": "NICA Foreign Threats to 2020 US election 19AUG2020",
+    "type": "White House Release",
+    "date": "2020-08-19",
+    "agency": "National Intelligence Council",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "NICA Foreign Threats to 2020 US election 19AUG2020. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+    "collection": "WH Release 001",
+    "entities": [
+      "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+      "National Intelligence Council",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-001/001-006.pdf",
+    "pdf": "files/collection-001/001-006.pdf",
+    "original_filename": "NICA_ Foreign Threats to 2020 US election_19AUG2020 - DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-001-007",
+    "title": "NICM ChinaStepsToInfluenceElection 16OCT2020",
+    "type": "White House Release",
+    "date": "2020-10-16",
+    "agency": "National Intelligence Council",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "NICM ChinaStepsToInfluenceElection 16OCT2020. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+    "collection": "WH Release 001",
+    "entities": [
+      "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+      "National Intelligence Council",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-001/001-007.pdf",
+    "pdf": "files/collection-001/001-007.pdf",
+    "original_filename": "NICM_ChinaStepsToInfluenceElection_16OCT2020_DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-001-008",
+    "title": "NICM VulnerabilitiesInUS2020ElectionInfrastructure 15JAN2020 DECLASS REDACTEDed",
+    "type": "White House Release",
+    "date": "2020-01-15",
+    "agency": "National Intelligence Council",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "NICM VulnerabilitiesInUS2020ElectionInfrastructure 15JAN2020 DECLASS REDACTEDed. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+    "collection": "WH Release 001",
+    "entities": [
+      "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+      "National Intelligence Council",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-001/001-008.pdf",
+    "pdf": "files/collection-001/001-008.pdf",
+    "original_filename": "NICM_VulnerabilitiesInUS2020ElectionInfrastructure_15JAN2020_DECLASS_REDACTEDed.pdf"
+  },
+  {
+    "id": "WH-002-001",
+    "title": "18 States Memo - clean - declass mark Redacted",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "18 States Memo - clean - declass mark Redacted. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-001.pdf",
+    "pdf": "files/collection-002/002-001.pdf",
+    "original_filename": "18 States Memo - clean - declass mark_Redacted.pdf"
+  },
+  {
+    "id": "WH-002-002",
+    "title": "200M Voter Records Compromised",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "200M Voter Records Compromised. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-002.pdf",
+    "pdf": "files/collection-002/002-002.pdf",
+    "original_filename": "200M Voter Records Compromised - declass marked_Redacted.pdf"
+  },
+  {
+    "id": "WH-002-003",
+    "title": "CIA Wire Memo Summer 2020",
+    "type": "White House Release",
+    "date": "2020-01-01",
+    "agency": "Central Intelligence Agency",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "CIA Wire Memo Summer 2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "Central Intelligence Agency",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-003.pdf",
+    "pdf": "files/collection-002/002-003.pdf",
+    "original_filename": "CIA Wire Memo Summer 2020 DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-002-004",
+    "title": "EMAIL Everyone's favorite topic 23DEC2021",
+    "type": "White House Release",
+    "date": "2021-12-23",
+    "agency": "United States Intelligence Community",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "EMAIL Everyone's favorite topic 23DEC2021. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Intelligence Community",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-004.pdf",
+    "pdf": "files/collection-002/002-004.pdf",
+    "original_filename": "EMAIL_Everyone's favorite topic 23DEC2021 - DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-002-005",
+    "title": "EMAIL NSA.MassagedPDB 20NOV2020",
+    "type": "White House Release",
+    "date": "2020-11-20",
+    "agency": "National Security Agency",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "EMAIL NSA.MassagedPDB 20NOV2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "National Security Agency",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-005.pdf",
+    "pdf": "files/collection-002/002-005.pdf",
+    "original_filename": "EMAIL_NSA.MassagedPDB_20NOV2020_DECLASS_REDACT.pdf"
+  },
+  {
+    "id": "WH-002-006",
+    "title": "EMAIL NSA.MassagedPDB 23NOV2020",
+    "type": "White House Release",
+    "date": "2020-11-23",
+    "agency": "National Security Agency",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "EMAIL NSA.MassagedPDB 23NOV2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "National Security Agency",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-006.pdf",
+    "pdf": "files/collection-002/002-006.pdf",
+    "original_filename": "EMAIL_NSA.MassagedPDB_23NOV2020_DECLASS_REDACT.pdf"
+  },
+  {
+    "id": "WH-002-007",
+    "title": "EMAIL RE For IC coord by Oct 7 2020 7OCT2020",
+    "type": "White House Release",
+    "date": "2020-10-07",
+    "agency": "United States Intelligence Community",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "EMAIL RE For IC coord by Oct 7 2020 7OCT2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Intelligence Community",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-007.pdf",
+    "pdf": "files/collection-002/002-007.pdf",
+    "original_filename": "EMAIL_RE For IC coord by Oct 7 2020  7OCT2020 DECLASS REDACTED.pdf"
+  },
+  {
+    "id": "WH-002-008",
+    "title": "EMAIL RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020",
+    "type": "White House Release",
+    "date": "2020-09-03",
+    "agency": "United States Intelligence Community",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "EMAIL RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Intelligence Community",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-008.pdf",
+    "pdf": "files/collection-002/002-008.pdf",
+    "original_filename": "EMAIL_RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020_DECLASS_REDACTED .pdf"
+  },
+  {
+    "id": "WH-002-009",
+    "title": "FBI ALBANY IIR PROVIDED TO CHAIRMAN GRASSLEY",
+    "type": "White House Release",
+    "date": "",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBI ALBANY IIR PROVIDED TO CHAIRMAN GRASSLEY. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-009.pdf",
+    "pdf": "files/collection-002/002-009.pdf",
+    "original_filename": "FBI_ALBANY_IIR_PROVIDED_TO_CHAIRMAN GRASSLEY .pdf"
+  },
+  {
+    "id": "WH-002-010",
+    "title": "NICA Foreign Threats To 2020 US Election 19AUG2020",
+    "type": "White House Release",
+    "date": "2020-08-19",
+    "agency": "National Intelligence Council",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "NICA Foreign Threats To 2020 US Election 19AUG2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "National Intelligence Council",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-010.pdf",
+    "pdf": "files/collection-002/002-010.pdf",
+    "original_filename": "NICA Foreign Threats To 2020 US Election_19AUG2020 DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-002-011",
+    "title": "Note - Sensitive PRC Reporting from 2018-2020",
+    "type": "White House Release",
+    "date": "2018-01-01",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "Note - Sensitive PRC Reporting from 2018-2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-011.pdf",
+    "pdf": "files/collection-002/002-011.pdf",
+    "original_filename": "Note - Sensitive PRC Reporting from 2018-2020 DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-002-012",
+    "title": "PDB 25JUN2020",
+    "type": "White House Release",
+    "date": "2020-06-25",
+    "agency": "Executive Office of the President",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "PDB 25JUN2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "Executive Office of the President",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-012.pdf",
+    "pdf": "files/collection-002/002-012.pdf",
+    "original_filename": "PDB 25JUN2020_DECLASS_REDACTED.pdf"
+  },
+  {
+    "id": "WH-002-013",
+    "title": "PRC Analsyis on US Voter Registration Information",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "PRC Analsyis on US Voter Registration Information. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-013.pdf",
+    "pdf": "files/collection-002/002-013.pdf",
+    "original_filename": "PRC Analsyis on US Voter Registration Information - clean - declass marked_Redacted.pdf"
+  },
+  {
+    "id": "WH-002-014",
+    "title": "PRC Collection of US VoterMilitaryData",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "PRC Collection of US VoterMilitaryData. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-014.pdf",
+    "pdf": "files/collection-002/002-014.pdf",
+    "original_filename": "PRC Collection of US VoterMilitaryData - clean - declass marked_Redacted.pdf"
+  },
+  {
+    "id": "WH-002-015",
+    "title": "PRC Target 2024 Election 2023",
+    "type": "White House Release",
+    "date": "2024-01-01",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "PRC Target 2024 Election 2023. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-015.pdf",
+    "pdf": "files/collection-002/002-015.pdf",
+    "original_filename": "PRC Target 2024 Election 2023 - clean - declass marked_Redacted.pdf"
+  },
+  {
+    "id": "WH-002-016",
+    "title": "PRC U.S. Presidential Election-Related Intelligence in 2020",
+    "type": "White House Release",
+    "date": "2020-01-01",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "PRC U.S. Presidential Election-Related Intelligence in 2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-016.pdf",
+    "pdf": "files/collection-002/002-016.pdf",
+    "original_filename": "PRC U.S. Presidential Election-Related Intelligence in 2020 - clean - declass marked_Redacted.pdf"
+  },
+  {
+    "id": "WH-002-017",
+    "title": "PRC US Voter Data 7 States 2023",
+    "type": "White House Release",
+    "date": "2023-01-01",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "PRC US Voter Data 7 States 2023. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-017.pdf",
+    "pdf": "files/collection-002/002-017.pdf",
+    "original_filename": "PRC US Voter Data 7 States 2023 - clean - declass marked_Redacted.pdf"
+  },
+  {
+    "id": "WH-002-018",
+    "title": "Summary - clean - declass marked PART 1",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "Summary - clean - declass marked PART 1. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-018.pdf",
+    "pdf": "files/collection-002/002-018.pdf",
+    "original_filename": "Summary - clean - declass marked PART 1.pdf"
+  },
+  {
+    "id": "WH-002-019",
+    "title": "Summary - clean - declass marked PART 2",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "Summary - clean - declass marked PART 2. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-019.pdf",
+    "pdf": "files/collection-002/002-019.pdf",
+    "original_filename": "Summary - clean - declass marked PART 2.pdf"
+  },
+  {
+    "id": "WH-002-020",
+    "title": "Summary - clean - declass marked PART 3",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "Summary - clean - declass marked PART 3. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-020.pdf",
+    "pdf": "files/collection-002/002-020.pdf",
+    "original_filename": "Summary - clean - declass marked PART 3.pdf"
+  },
+  {
+    "id": "WH-002-021",
+    "title": "Tasking 3 AlbanyBriefingHandout 297E HQ A4095996 NotSerialized-JET-R",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "Tasking 3 AlbanyBriefingHandout 297E HQ A4095996 NotSerialized-JET-R. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-021.pdf",
+    "pdf": "files/collection-002/002-021.pdf",
+    "original_filename": "Tasking_3_AlbanyBriefingHandout_297E_HQ_A4095996_NotSerialized-JET-R RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-002-022",
+    "title": "US Voter Registration for 6 States",
+    "type": "White House Release",
+    "date": "",
+    "agency": "United States Government",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "US Voter Registration for 6 States. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "United States Government",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-022.pdf",
+    "pdf": "files/collection-002/002-022.pdf",
+    "original_filename": "US Voter Registration  for 6 States - clean - declass marked_Redacted.pdf"
+  },
+  {
+    "id": "WH-002-023",
+    "title": "WHTF Government Transparency - States Statement FINAL",
+    "type": "White House Release",
+    "date": "",
+    "agency": "White House Task Force",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "WHTF Government Transparency - States Statement FINAL. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+    "collection": "WH Release 002",
+    "entities": [
+      "China’s Acquisition and Exploitation of American Voter Data",
+      "White House Task Force",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-002/002-023.pdf",
+    "pdf": "files/collection-002/002-023.pdf",
+    "original_filename": "WHTF Government Transparency - States Statement FINAL.pdf"
+  },
+  {
+    "id": "WH-003-001",
+    "title": "0000001 - RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "0000001 - RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-001.pdf",
+    "pdf": "files/collection-003/003-001.pdf",
+    "original_filename": "0000001 - RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-002",
+    "title": "196 - RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "196 - RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-002.pdf",
+    "pdf": "files/collection-003/003-002.pdf",
+    "original_filename": "196 - RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-003",
+    "title": "233 - RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "233 - RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-003.pdf",
+    "pdf": "files/collection-003/003-003.pdf",
+    "original_filename": "233 - RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-004",
+    "title": "265 0000001 - RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "265 0000001 - RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-004.pdf",
+    "pdf": "files/collection-003/003-004.pdf",
+    "original_filename": "265_0000001 - RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-005",
+    "title": "FBIMichigan 2021 Dont Want To Close Memo RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan 2021 Dont Want To Close Memo RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-005.pdf",
+    "pdf": "files/collection-003/003-005.pdf",
+    "original_filename": "FBIMichigan 2021 Dont Want To Close Memo RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-006",
+    "title": "FBIMichigan Fake Voter 3 Memo RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Fake Voter 3 Memo RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-006.pdf",
+    "pdf": "files/collection-003/003-006.pdf",
+    "original_filename": "FBIMichigan Fake Voter 3 Memo RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-007",
+    "title": "FBIMichigan Fake Voter Memo 1 RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Fake Voter Memo 1 RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-007.pdf",
+    "pdf": "files/collection-003/003-007.pdf",
+    "original_filename": "FBIMichigan Fake Voter Memo 1 RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-008",
+    "title": "FBIMichigan Fake Voter Memo 2 RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Fake Voter Memo 2 RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-008.pdf",
+    "pdf": "files/collection-003/003-008.pdf",
+    "original_filename": "FBIMichigan Fake Voter Memo 2 RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-009",
+    "title": "FBIMichigan Four Year Case Timeline RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Four Year Case Timeline RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-009.pdf",
+    "pdf": "files/collection-003/003-009.pdf",
+    "original_filename": "FBIMichigan Four Year Case Timeline RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-010",
+    "title": "FBIMichigan Fraudulent Registration Applications 91 of 107 RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Fraudulent Registration Applications 91 of 107 RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-010.pdf",
+    "pdf": "files/collection-003/003-010.pdf",
+    "original_filename": "FBIMichigan Fraudulent Registration Applications 91 of 107 RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-011",
+    "title": "FBIMichigan Fraudulent Request Memo2 RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Fraudulent Request Memo2 RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-011.pdf",
+    "pdf": "files/collection-003/003-011.pdf",
+    "original_filename": "FBIMichigan Fraudulent Request Memo2 RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-012",
+    "title": "FBIMichigan Orginal Muskego MSP Referral RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Orginal Muskego MSP Referral RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-012.pdf",
+    "pdf": "files/collection-003/003-012.pdf",
+    "original_filename": "FBIMichigan Orginal Muskego MSP Referral RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-013",
+    "title": "FBIMichigan PIN2023 Delay Memo - RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan PIN2023 Delay Memo - RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-013.pdf",
+    "pdf": "files/collection-003/003-013.pdf",
+    "original_filename": "FBIMichigan PIN2023 Delay Memo - RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-014",
+    "title": "FBIMichigan Voter Confirms She Did Not Register But Got Ballot RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Voter Confirms She Did Not Register But Got Ballot RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-014.pdf",
+    "pdf": "files/collection-003/003-014.pdf",
+    "original_filename": "FBIMichigan Voter Confirms She Did Not Register But Got Ballot RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-015",
+    "title": "FBIMichigan Witness Interview Memo Gift Cards Suppress Trump RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Witness Interview Memo Gift Cards Suppress Trump RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-015.pdf",
+    "pdf": "files/collection-003/003-015.pdf",
+    "original_filename": "FBIMichigan Witness Interview Memo Gift Cards Suppress Trump RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-016",
+    "title": "FBIMichigan Witness Interview Memo Other States RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Witness Interview Memo Other States RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-016.pdf",
+    "pdf": "files/collection-003/003-016.pdf",
+    "original_filename": "FBIMichigan Witness Interview Memo Other States RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-017",
+    "title": "FBIMichigan Witness Interview Memo Paid By Registration Others Falsified RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Witness Interview Memo Paid By Registration Others Falsified RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-017.pdf",
+    "pdf": "files/collection-003/003-017.pdf",
+    "original_filename": "FBIMichigan Witness Interview Memo Paid By Registration Others Falsified RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-018",
+    "title": "FBIMichigan Witness Interview Memo Pot For Registrations RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Witness Interview Memo Pot For Registrations RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-018.pdf",
+    "pdf": "files/collection-003/003-018.pdf",
+    "original_filename": "FBIMichigan Witness Interview Memo Pot For Registrations RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-019",
+    "title": "FBIMichigan Witness Interview Memo Probably Forged Memos RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Witness Interview Memo Probably Forged Memos RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-019.pdf",
+    "pdf": "files/collection-003/003-019.pdf",
+    "original_filename": "FBIMichigan Witness Interview Memo Probably Forged Memos RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-020",
+    "title": "FBIMichigan Witness Interview Widespread Fake Registrations RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Witness Interview Widespread Fake Registrations RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-020.pdf",
+    "pdf": "files/collection-003/003-020.pdf",
+    "original_filename": "FBIMichigan Witness Interview Widespread Fake Registrations RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-021",
+    "title": "FBIMichigan Worker Interview Sit In Car Fake Registrations RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "FBIMichigan Worker Interview Sit In Car Fake Registrations RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-021.pdf",
+    "pdf": "files/collection-003/003-021.pdf",
+    "original_filename": "FBIMichigan Worker Interview Sit In Car Fake Registrations RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-022",
+    "title": "GBI Strategies -RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "GBI Strategies -RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-022.pdf",
+    "pdf": "files/collection-003/003-022.pdf",
+    "original_filename": "GBI Strategies -RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-023",
+    "title": "PIN EDMI declination - RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "PIN EDMI declination - RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-023.pdf",
+    "pdf": "files/collection-003/003-023.pdf",
+    "original_filename": "PIN EDMI declination - RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-024",
+    "title": "PIN GBI Declination - RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "PIN GBI Declination - RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-024.pdf",
+    "pdf": "files/collection-003/003-024.pdf",
+    "original_filename": "PIN GBI Declination - RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-003-025",
+    "title": "Voter Fraud Spreadsheet - RELEASE MARKED",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "Federal Bureau of Investigation",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "Voter Fraud Spreadsheet - RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+    "collection": "WH Release 003",
+    "entities": [
+      "Michigan Voter-Registration Investigation",
+      "Federal Bureau of Investigation",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-003/003-025.pdf",
+    "pdf": "files/collection-003/003-025.pdf",
+    "original_filename": "Voter Fraud Spreadsheet - RELEASE MARKED.pdf"
+  },
+  {
+    "id": "WH-004-001",
+    "title": "Alien Voter Registration Summary",
+    "type": "White House Release",
+    "date": "2026-07-15",
+    "agency": "White House / Federal election-security records",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "Alien Voter Registration Summary. This record is included in White House Collection 004: Noncitizens on State Voter Rolls.",
+    "collection": "WH Release 004",
+    "entities": [
+      "Noncitizens on State Voter Rolls",
+      "White House / Federal election-security records",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-004/004-001.pdf",
+    "pdf": "files/collection-004/004-001.pdf",
+    "original_filename": "Alien Voter Registration Summary.pdf_Redacted.pdf"
+  },
+  {
+    "id": "WH-004-002",
+    "title": "Voter Registration Database Threats - FINAL",
+    "type": "White House Release",
+    "date": "2026-07-14",
+    "agency": "White House / Federal election-security records",
+    "status": "Official document released by the White House; locally archived PDF",
+    "summary": "Voter Registration Database Threats - FINAL. This record is included in White House Collection 004: Noncitizens on State Voter Rolls.",
+    "collection": "WH Release 004",
+    "entities": [
+      "Noncitizens on State Voter Rolls",
+      "White House / Federal election-security records",
+      "White House"
+    ],
+    "assertions": [
+      "The linked file is a locally archived copy of a document included in the White House release.",
+      "Inclusion in the archive does not independently verify every assertion contained in the document."
+    ],
+    "source": "files/collection-004/004-002.pdf",
+    "pdf": "files/collection-004/004-002.pdf",
+    "original_filename": "Voter Registration Database Threats - FINAL.pdf"
+  }
+]

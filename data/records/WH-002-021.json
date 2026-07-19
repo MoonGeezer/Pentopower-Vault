@@ -1,0 +1,22 @@
+{
+  "id": "WH-002-021",
+  "title": "Tasking 3 AlbanyBriefingHandout 297E HQ A4095996 NotSerialized-JET-R",
+  "type": "White House Release",
+  "date": "",
+  "agency": "United States Government",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "Tasking 3 AlbanyBriefingHandout 297E HQ A4095996 NotSerialized-JET-R. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+  "collection": "WH Release 002",
+  "entities": [
+    "China’s Acquisition and Exploitation of American Voter Data",
+    "United States Government",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-002/002-021.pdf",
+  "pdf": "files/collection-002/002-021.pdf",
+  "original_filename": "Tasking_3_AlbanyBriefingHandout_297E_HQ_A4095996_NotSerialized-JET-R RELEASE MARKED.pdf"
+}

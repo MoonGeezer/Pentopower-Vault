@@ -1,0 +1,22 @@
+{
+  "id": "WH-002-008",
+  "title": "EMAIL RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020",
+  "type": "White House Release",
+  "date": "2020-09-03",
+  "agency": "United States Intelligence Community",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "EMAIL RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+  "collection": "WH Release 002",
+  "entities": [
+    "China’s Acquisition and Exploitation of American Voter Data",
+    "United States Intelligence Community",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-002/002-008.pdf",
+  "pdf": "files/collection-002/002-008.pdf",
+  "original_filename": "EMAIL_RE Please coord by COB 9.1 - 4 country election security graphic 03SEP2020_DECLASS_REDACTED .pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "WH-004-002",
+  "title": "Voter Registration Database Threats - FINAL",
+  "type": "White House Release",
+  "date": "2026-07-14",
+  "agency": "White House / Federal election-security records",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "Voter Registration Database Threats - FINAL. This record is included in White House Collection 004: Noncitizens on State Voter Rolls.",
+  "collection": "WH Release 004",
+  "entities": [
+    "Noncitizens on State Voter Rolls",
+    "White House / Federal election-security records",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-004/004-002.pdf",
+  "pdf": "files/collection-004/004-002.pdf",
+  "original_filename": "Voter Registration Database Threats - FINAL.pdf"
+}

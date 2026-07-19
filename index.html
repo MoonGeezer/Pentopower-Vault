@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The Vault — Primary Documents. Public Record. Permanent Archive." />
+  <title>THE VAULT | Pen to Power Publishing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Franklin:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="The Vault home">
+      <span class="brand-mark">V</span>
+      <span><strong>THE VAULT</strong><small>Pen to Power Publishing</small></span>
+    </a>
+    <button class="menu-button" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <nav id="primary-nav">
+      <a href="#documents">Documents</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#method">How to Read</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <p class="eyebrow">NON-PARTISAN. ADVERSARIAL. ALWAYS.</p>
+      <h1>Find the document.<br><span>See what it actually says.</span></h1>
+      <p class="hero-copy">A searchable archive of primary records, court opinions, executive actions and official releases—separated from commentary and organized for public use.</p>
+      <div class="search-shell">
+        <label for="global-search">Search documents, people, agencies, statutes or issues</label>
+        <div class="search-row">
+          <input id="global-search" type="search" placeholder="Try: birthright citizenship, Federal Reserve, customs..." autocomplete="off" />
+          <button id="clear-search" type="button">Clear</button>
+        </div>
+      </div>
+      <div class="hero-stats" aria-label="Archive statistics">
+        <div><strong id="doc-count">0</strong><span>Documents</span></div>
+        <div><strong id="assertion-count">0</strong><span>Key assertions</span></div>
+        <div><strong id="entity-count">0</strong><span>Indexed entities</span></div>
+      </div>
+    </section>
+
+    <section class="release-shelf" aria-labelledby="white-house-release-title">
+      <div class="release-shelf-heading">
+        <p class="section-kicker">RELEASED BY THE WHITE HOUSE · JULY 2026</p>
+        <h2 id="white-house-release-title">White House Release</h2>
+        <p>Four official document collections. Download the original White House ZIP or search the locally archived records already loaded into The Vault.</p>
+      </div>
+      <div class="release-card-grid">
+        <article class="release-card">
+          <span class="release-number">001</span>
+          <h3>Vulnerabilities in Electronic Voting &amp; Ballot-Counting Systems</h3>
+          <p>Intelligence assessments and technical records concerning election infrastructure and electronic systems.</p>
+          <div class="release-links"><button type="button" data-collection-query="WH Release 001">Search Vault</button><a href="https://www.whitehouse.gov/wp-content/uploads/2026/07/Vulnerabilities-in-Electronic-Voting-and-Ballot-Counting-Systems.zip">WH ZIP</a></div>
+        </article>
+        <article class="release-card">
+          <span class="release-number">002</span>
+          <h3>China’s Acquisition and Exploitation of American Voter Data</h3>
+          <p>Released intelligence and agency records concerning acquisition and use of American voter data.</p>
+          <div class="release-links"><button type="button" data-collection-query="WH Release 002">Search Vault</button><a href="https://www.whitehouse.gov/wp-content/uploads/2026/07/Chinas-Acquisition-and-Exploitation-of-American-Voter-Data.zip">WH ZIP</a></div>
+        </article>
+        <article class="release-card">
+          <span class="release-number">003</span>
+          <h3>Michigan Voter-Registration Investigation</h3>
+          <p><strong>19 local records</strong> including FBI opening and closing documents, witness interviews, verification memoranda, and DOJ correspondence.</p>
+          <div class="release-links"><button type="button" data-collection-query="WH Release 003">Search Vault</button><a href="https://www.whitehouse.gov/wp-content/uploads/2026/07/Michigan-Voter-Registration-Investigation.zip">WH ZIP</a></div>
+        </article>
+        <article class="release-card">
+          <span class="release-number">004</span>
+          <h3>Noncitizens on State Voter Rolls</h3>
+          <p><strong>2 local records</strong> including the DHS summary and the DHS/CISA voter-registration database threat report.</p>
+          <div class="release-links"><button type="button" data-collection-query="WH Release 004">Search Vault</button><a href="https://www.whitehouse.gov/wp-content/uploads/2026/07/Noncitizens-on-State-Voter-Rolls.zip">WH ZIP</a></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="toolbar" id="documents">
+      <div>
+        <p class="section-kicker">LIVE INDEX</p>
+        <h2>Current records</h2>
+        <p class="index-note">The Executive Orders filter loads the complete official Trump archive from the Federal Register.</p>
+      </div>
+      <div class="filters" role="group" aria-label="Document filters">
+        <button class="filter active" data-filter="all">All</button>
+        <button class="filter" data-filter="Executive Order" title="Every Trump executive order from both presidential terms">Executive Orders</button>
+        <button class="filter" data-filter="Court Opinion" title="Open the Judicial Vault">Judicial Vault</button>
+        <button class="filter" data-filter="Proclamation">Proclamations</button>
+        <button class="filter" data-filter="Law">Laws</button>
+      </div>
+    </section>
+
+    <section id="laws-shelf" class="laws-shelf" hidden aria-labelledby="laws-title">
+      <div class="laws-shelf-heading">
+        <p class="section-kicker">SIGNED LEGISLATION</p>
+        <h2 id="laws-title">Laws Signed by President Donald J. Trump</h2>
+        <p>Every public law is indexed as an individual Vault record and connected to its official authenticated GovInfo PDF.</p>
+      </div>
+      <div class="laws-term-grid">
+        <button class="law-term-card" type="button" data-law-term="Trump Laws · First Term">
+          <span class="law-term-label">45TH PRESIDENT · 2017–2021</span>
+          <strong>First Term</strong>
+          <span class="law-term-count">785 public laws</span>
+          <small>Public Laws 115-2 through 115-442 and 116-1 through 116-344</small>
+        </button>
+        <button class="law-term-card" type="button" data-law-term="Trump Laws · Second Term">
+          <span class="law-term-label">47TH PRESIDENT · 2025–PRESENT</span>
+          <strong>Second Term</strong>
+          <span class="law-term-count">100 public laws indexed</span>
+          <small>Public Laws 119-1 through 119-100; update the manifest as new laws are enacted</small>
+        </button>
+      </div>
+    </section>
+
+
+
+    <section id="judicial-vault" class="judicial-vault" hidden aria-labelledby="judicial-title">
+      <div class="judicial-heading">
+        <p class="section-kicker">THE JUDICIAL RECORD</p>
+        <h2 id="judicial-title">Judicial Vault</h2>
+        <p>Browse major federal cases by administration, court and circuit. Each case opens to a concise case jacket with the decision, vote, holding, procedural path and underlying record.</p>
+      </div>
+
+      <div class="judicial-admin-grid" role="group" aria-label="Administration">
+        <button type="button" class="judicial-admin active" data-judicial-admin="Trump I"><span>2017–2021</span><strong>Trump I</strong><small>First administration</small></button>
+        <button type="button" class="judicial-admin" data-judicial-admin="Biden"><span>2021–2025</span><strong>Biden</strong><small>Biden administration</small></button>
+        <button type="button" class="judicial-admin" data-judicial-admin="Trump II"><span>2025–Present</span><strong>Trump II</strong><small>Second administration</small></button>
+      </div>
+
+      <div class="judicial-court-heading">
+        <div><p class="section-kicker">SELECT A COURT</p><h3>Supreme Court and Federal Circuits</h3></div>
+        <button type="button" class="judicial-reset" id="judicial-reset">Show all courts</button>
+      </div>
+      <div class="circuit-grid" role="group" aria-label="Federal court circuit">
+        <button type="button" class="circuit-button active" data-circuit="all"><strong>All</strong><span>Courts</span></button>
+        <button type="button" class="circuit-button" data-circuit="Supreme Court"><strong>SCOTUS</strong><span>Supreme Court</span></button>
+        <button type="button" class="circuit-button" data-circuit="D.C. Circuit"><strong>D.C.</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="1st Circuit"><strong>1st</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="2nd Circuit"><strong>2nd</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="3rd Circuit"><strong>3rd</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="4th Circuit"><strong>4th</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="5th Circuit"><strong>5th</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="6th Circuit"><strong>6th</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="7th Circuit"><strong>7th</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="8th Circuit"><strong>8th</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="9th Circuit"><strong>9th</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="10th Circuit"><strong>10th</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="11th Circuit"><strong>11th</strong><span>Circuit</span></button>
+        <button type="button" class="circuit-button" data-circuit="Federal Circuit"><strong>Fed.</strong><span>Circuit</span></button>
+      </div>
+
+      <div id="district-directory" class="district-directory"></div>
+      <div class="judicial-result-bar"><strong id="judicial-result-title">Trump I · All courts</strong><span id="judicial-case-count">0 cases</span></div>
+      <div id="judicial-case-grid" class="judicial-case-grid"></div>
+      <div id="judicial-empty" class="judicial-empty" hidden><strong>No cases indexed in this shelf yet.</strong><span>The structure is live and ready for the next case import.</span></div>
+    </section>
+
+    <section class="results-summary" aria-live="polite">
+      <span id="result-count">0 records</span>
+      <span id="active-query"></span>
+    </section>
+    <section id="document-grid" class="document-grid"></section>
+    <section id="empty-state" class="empty-state" hidden>
+      <h3>No matching records</h3>
+      <p>Try a broader term or clear the active filters.</p>
+    </section>
+
+    <section id="timeline" class="timeline-section">
+      <div class="section-heading">
+        <p class="section-kicker">CHRONOLOGY</p>
+        <h2>Release timeline</h2>
+        <p>Events are stored separately from documents, then connected back to their primary records.</p>
+      </div>
+      <div id="timeline-list" class="timeline-list"></div>
+    </section>
+
+    <section id="method" class="method-section">
+      <div class="section-heading">
+        <p class="section-kicker">EVIDENCE DISCIPLINE</p>
+        <h2>How to read The Vault</h2>
+        <p>The archive distinguishes what a record is, what it asserts, and what has been independently established.</p>
+      </div>
+      <div class="method-grid">
+        <article><span>01</span><h3>Primary document</h3><p>An original government, legislative or judicial record. Authenticity does not make every statement inside it true.</p></article>
+        <article><span>02</span><h3>Assertion</h3><p>A discrete factual claim made by a source. Assertions can be supported, disputed, contradicted or unresolved.</p></article>
+        <article><span>03</span><h3>Finding</h3><p>A formal determination by a court, inspector general or other authorized body, within the limits of its jurisdiction.</p></article>
+        <article><span>04</span><h3>Interpretation</h3><p>Analysis of meaning or consequence. Interpretation is labeled and kept separate from the underlying record.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="document-modal">
+    <button class="modal-close" aria-label="Close document">×</button>
+    <div id="modal-content"></div>
+  </dialog>
+
+  <footer>
+    <strong>THE VAULT</strong>
+    <p>Primary Documents. Public Record. Permanent Archive.</p>
+    <small>© 2026 Pen to Power Publishing</small>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>

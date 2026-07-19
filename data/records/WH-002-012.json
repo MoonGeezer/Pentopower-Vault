@@ -1,0 +1,22 @@
+{
+  "id": "WH-002-012",
+  "title": "PDB 25JUN2020",
+  "type": "White House Release",
+  "date": "2020-06-25",
+  "agency": "Executive Office of the President",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "PDB 25JUN2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+  "collection": "WH Release 002",
+  "entities": [
+    "China’s Acquisition and Exploitation of American Voter Data",
+    "Executive Office of the President",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-002/002-012.pdf",
+  "pdf": "files/collection-002/002-012.pdf",
+  "original_filename": "PDB 25JUN2020_DECLASS_REDACTED.pdf"
+}

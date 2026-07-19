@@ -1,0 +1,22 @@
+{
+  "id": "WH-001-003",
+  "title": "CISA Election Report - FINAL",
+  "type": "White House Release",
+  "date": "",
+  "agency": "Cybersecurity and Infrastructure Security Agency",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "CISA Election Report - FINAL. This record is included in White House Collection 001: Vulnerabilities in Electronic Voting & Ballot-Counting Systems.",
+  "collection": "WH Release 001",
+  "entities": [
+    "Vulnerabilities in Electronic Voting & Ballot-Counting Systems",
+    "Cybersecurity and Infrastructure Security Agency",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-001/001-003.pdf",
+  "pdf": "files/collection-001/001-003.pdf",
+  "original_filename": "CISA Election Report - FINAL.pdf"
+}

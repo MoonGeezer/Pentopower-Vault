@@ -1,0 +1,22 @@
+{
+  "id": "WH-002-010",
+  "title": "NICA Foreign Threats To 2020 US Election 19AUG2020",
+  "type": "White House Release",
+  "date": "2020-08-19",
+  "agency": "National Intelligence Council",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "NICA Foreign Threats To 2020 US Election 19AUG2020. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+  "collection": "WH Release 002",
+  "entities": [
+    "China’s Acquisition and Exploitation of American Voter Data",
+    "National Intelligence Council",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-002/002-010.pdf",
+  "pdf": "files/collection-002/002-010.pdf",
+  "original_filename": "NICA Foreign Threats To 2020 US Election_19AUG2020 DECLASS_REDACTED.pdf"
+}

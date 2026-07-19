@@ -1,0 +1,22 @@
+{
+  "id": "WH-002-023",
+  "title": "WHTF Government Transparency - States Statement FINAL",
+  "type": "White House Release",
+  "date": "",
+  "agency": "White House Task Force",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "WHTF Government Transparency - States Statement FINAL. This record is included in White House Collection 002: China’s Acquisition and Exploitation of American Voter Data.",
+  "collection": "WH Release 002",
+  "entities": [
+    "China’s Acquisition and Exploitation of American Voter Data",
+    "White House Task Force",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-002/002-023.pdf",
+  "pdf": "files/collection-002/002-023.pdf",
+  "original_filename": "WHTF Government Transparency - States Statement FINAL.pdf"
+}

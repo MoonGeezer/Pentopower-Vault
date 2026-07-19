@@ -1,0 +1,22 @@
+{
+  "id": "WH-003-007",
+  "title": "FBIMichigan Fake Voter Memo 1 RELEASE MARKED",
+  "type": "White House Release",
+  "date": "2026-07-15",
+  "agency": "Federal Bureau of Investigation",
+  "status": "Official document released by the White House; locally archived PDF",
+  "summary": "FBIMichigan Fake Voter Memo 1 RELEASE MARKED. This record is included in White House Collection 003: Michigan Voter-Registration Investigation.",
+  "collection": "WH Release 003",
+  "entities": [
+    "Michigan Voter-Registration Investigation",
+    "Federal Bureau of Investigation",
+    "White House"
+  ],
+  "assertions": [
+    "The linked file is a locally archived copy of a document included in the White House release.",
+    "Inclusion in the archive does not independently verify every assertion contained in the document."
+  ],
+  "source": "files/collection-003/003-007.pdf",
+  "pdf": "files/collection-003/003-007.pdf",
+  "original_filename": "FBIMichigan Fake Voter Memo 1 RELEASE MARKED.pdf"
+}
